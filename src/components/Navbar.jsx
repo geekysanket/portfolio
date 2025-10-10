@@ -35,7 +35,7 @@ function Navbar() {
             <img src={pic} className="h-12 w-12 rounded-full" alt="" />
             <h1 className="font-semibold text-xl cursor-pointer">
               GeekySanket<span className="text-green-500 text-2xl">l</span>
-              <p className="text-sm">Web Developer and Software Engineer</p>
+              <p className="text-sm">Engineer</p>
             </h1>
           </div>
           {/* desktop navbar */}
@@ -93,3 +93,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
