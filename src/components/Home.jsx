@@ -30,7 +30,7 @@ function Home() {
               {/* <span >Developer</span> */}
               <ReactTyped
                 className="text-red-700 font-bold"
-                strings={[ "Business Analyst", "Projects Manager", "Vibe Coder", "Prompt Engineer"]}
+                strings={[ "Business Analyst", "Projects Manager", "Vibe Coder", "AI Prompt Engineer"]}
                 typeSpeed={30}
                 backSpeed={50}
                 loop={true}
@@ -99,4 +99,5 @@ function Home() {
 }
 
 export default Home;
+
 
