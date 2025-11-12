@@ -16,7 +16,7 @@ function App() {
         <Home />
         <About />
         <Experiance />
-        <PortFolio />
+        
         <Contact />
         <Footer />
       </div>
@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+
